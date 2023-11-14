@@ -1,0 +1,64 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net472</TargetFramework>
+		<Version>1.0.5</Version>
+		<Authors>TechHappy</Authors>
+		<AssemblyName>TechHappy.$(MSBuildProjectName)</AssemblyName>
+		<RootNamespace>TechHappy.$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="BepInEx.Core" Version="5.4.21">
+			<ExcludeAssets>runtime</ExcludeAssets>
+		</PackageReference>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="0Harmony">
+		  <HintPath>dependencies\0Harmony.dll</HintPath>
+		</Reference>
+		<Reference Include="Assembly-CSharp">
+			<HintPath>dependencies\Assembly-CSharp.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="BepInEx">
+		  <HintPath>dependencies\BepInEx.dll</HintPath>
+		</Reference>
+		<Reference Include="Comfort">
+			<HintPath>dependencies\Comfort.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="Comfort.Unity">
+			<HintPath>dependencies\Comfort.Unity.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="NetCoreServer">
+		  <HintPath>dependencies\NetCoreServer.dll</HintPath>
+		</Reference>
+		<Reference Include="Newtonsoft.Json">
+		  <HintPath>dependencies\Newtonsoft.Json.dll</HintPath>
+		</Reference>
+		<Reference Include="SIT.Core">
+		  <HintPath>dependencies\SIT.Core.dll</HintPath>
+		</Reference>
+		<Reference Include="System.ValueTuple" />
+		<Reference Include="UnityEngine">
+			<HintPath>dependencies\UnityEngine.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="UnityEngine.CoreModule">
+			<HintPath>dependencies\UnityEngine.CoreModule.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="UnityEngine.InputLegacyModule">
+			<HintPath>dependencies\UnityEngine.InputLegacyModule.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Patches\" />
+	</ItemGroup>
+
+</Project>
