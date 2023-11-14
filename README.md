@@ -1,4 +1,4 @@
-﻿# TechHappy's SPTarkov Web Minimap Mod
+﻿# TechHappy's SPTarkov Web Minimap Mod - Ported to SIT (maybe?)
 
 This mod creates a web accessable map to view your current location and look direction in order to help you navigate throughout Escape From Tarkov. I made this mod to help myself and a family member learn where the caches and extracts are.
 
