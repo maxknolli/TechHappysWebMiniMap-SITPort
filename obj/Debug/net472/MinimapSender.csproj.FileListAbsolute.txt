@@ -1,0 +1,13 @@
+D:\dev\SPTarkovWebMinimap-main\obj\Debug\net472\MinimapSender.csproj.AssemblyReference.cache
+D:\dev\SPTarkovWebMinimap-main\obj\Debug\net472\MinimapSender.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\SPTarkovWebMinimap-main\obj\Debug\net472\MinimapSender.AssemblyInfoInputs.cache
+D:\dev\SPTarkovWebMinimap-main\obj\Debug\net472\MinimapSender.AssemblyInfo.cs
+D:\dev\SPTarkovWebMinimap-main\obj\Debug\net472\MinimapSender.csproj.CoreCompileInputs.cache
+D:\dev\SPTarkovWebMinimap-main\bin\Debug\net472\TechHappy.MinimapSender.dll
+D:\dev\SPTarkovWebMinimap-main\bin\Debug\net472\TechHappy.MinimapSender.pdb
+D:\dev\SPTarkovWebMinimap-main\bin\Debug\net472\NetCoreServer.dll
+D:\dev\SPTarkovWebMinimap-main\bin\Debug\net472\Newtonsoft.Json.dll
+D:\dev\SPTarkovWebMinimap-main\bin\Debug\net472\SIT.Core.dll
+D:\dev\SPTarkovWebMinimap-main\obj\Debug\net472\MinimapSender.csproj.CopyComplete
+D:\dev\SPTarkovWebMinimap-main\obj\Debug\net472\TechHappy.MinimapSender.dll
+D:\dev\SPTarkovWebMinimap-main\obj\Debug\net472\TechHappy.MinimapSender.pdb
